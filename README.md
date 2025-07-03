@@ -1,6 +1,7 @@
 # Aprendizado Web 🌐
 
 🇧🇷 Repositório com meu estudo para desenvolvimento de um website utilizando HTML, CSS e JS.
+
 🇺🇸 Repository with my study for developing a website using HTML, CSS and JS.
 ----------------------------------------------------------------------
 
