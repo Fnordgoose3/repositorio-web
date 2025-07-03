@@ -1,6 +1,6 @@
 # Aprendizado Web 🌐
-BR (português-Brasil) Repositório com meu estudo para desenvolvimento de um website utilizando HTML, CSS e JS.
 
+BR (português-Brasil) Repositório com meu estudo para desenvolvimento de um website utilizando HTML, CSS e JS.
 US (english) Repository with my study for developing a website using HTML, CSS and JS.
 ----------------------------------------------------------------------
 
