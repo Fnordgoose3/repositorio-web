@@ -1,13 +1,24 @@
 # Aprendizado Web 🌐
 
-Repositório com meus estudos para desenvolvimento web: HTML, CSS e JS.
-
+🇧🇷 Repositório com meu estudo para desenvolvimento de um website utilizando HTML, CSS e JS.
+🇺🇸 Repository with my study for developing a website using HTML, CSS and JS.
 ----------------------------------------------------------------------
 
-## Pastas
+## Pastas 🇧🇷
 
 - `HTML/` → Páginas em HTML
 - `CSS/` → Estilos CSS
+- `IMG/` → Imagens
+- `JavaScript/` → JavaScript
+
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+
+## Folders 🇺🇸
+
+- `HTML/` → HTML Pages
+- `CSS/` → CSS Styles
+- `IMG/` → Images
 - `JavaScript/` → JavaScript
 
 ----------------------------------------------------------------------
