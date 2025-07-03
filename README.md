@@ -1,8 +1,8 @@
 # Aprendizado Web 🌐
 
+----------------------------------------------------------------------------------------------------------------
 BR (português-Brasil) Repositório com meu estudo para desenvolvimento de um website utilizando HTML, CSS e JS.
-US (english) Repository with my study for developing a website using HTML, CSS and JS.
-----------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------
 
 ## Pastas BR (português-Brasil)
 
@@ -11,8 +11,9 @@ US (english) Repository with my study for developing a website using HTML, CSS a
 - `IMG/` → Imagens
 - `JavaScript/` → JavaScript
 
-----------------------------------------------------------------------
-----------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+US (english) Repository with my study for developing a website using HTML, CSS and JS.
+-----------------------------------------------------------------------------------------
 
 ## Folders US (english)
 
