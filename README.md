@@ -1,11 +1,10 @@
 # Aprendizado Web 🌐
+BR (português-Brasil) Repositório com meu estudo para desenvolvimento de um website utilizando HTML, CSS e JS.
 
-🇧🇷 Repositório com meu estudo para desenvolvimento de um website utilizando HTML, CSS e JS.
-
-🇺🇸 Repository with my study for developing a website using HTML, CSS and JS.
+US (english) Repository with my study for developing a website using HTML, CSS and JS.
 ----------------------------------------------------------------------
 
-## Pastas 🇧🇷
+## Pastas BR (português-Brasil)
 
 - `HTML/` → Páginas em HTML
 - `CSS/` → Estilos CSS
@@ -15,7 +14,7 @@
 ----------------------------------------------------------------------
 ----------------------------------------------------------------------
 
-## Folders 🇺🇸
+## Folders US (english)
 
 - `HTML/` → HTML Pages
 - `CSS/` → CSS Styles
