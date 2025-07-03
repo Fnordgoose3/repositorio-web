@@ -1,0 +1,69 @@
+  body {
+    background-color: #f0f0f0;
+    font-family: Arial, sans-serif;
+    text-align: center;
+  }
+
+  h1 {
+    color: #333333;
+    font-size: 2em;
+  }
+
+  p {
+    color: #666666;
+    font-size: 1.2em;
+  }
+
+  a {
+    color: #0077cc;
+    text-decoration: none;
+    font-weight: bold;
+  }
+
+  img {
+    margin-top: 20px;
+    border-radius: 10px;
+  }
+
+  #Titulo{
+    color: green;
+    font-size: 2.5em;
+  }
+
+  .botoes{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    margin-top: 30px;
+  }
+
+  button {
+    padding: 10px 20px;
+    border: none;
+    background-color: #0077cc;
+    color: black;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+
+  button:hover{
+    background-color: #005fa3;
+  }
+
+  .links a {
+    
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+    gap: 20px;
+    border: 2px solid #0077cc;
+    border-radius: 5px;
+  }
+
+  .links a:hover{
+    color: #961179;
+  }
+
+  .form-contato{
+    display: flex;
+  }
